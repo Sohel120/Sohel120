@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 rm -rf BDMC 
 
-git clone --depth=1 https://github.com/Soheb.github.com/BDMC.git 
+git clone --depth=1 https://github.com/Sohel120.github.com/BDMC.git 
 
 git pull
 
